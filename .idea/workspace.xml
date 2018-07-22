@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c3afa96-f349-4b15-b738-100fd28a7fc5" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/apps/liuyan/migrations/0001_initial.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/apps/liuyan/migrations/0002_auto_20180719_1553.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/apps/liuyan/models.py" afterPath="$PROJECT_DIR$/apps/liuyan/models.py" />
-      <change beforePath="$PROJECT_DIR$/apps/liuyan/views.py" afterPath="$PROJECT_DIR$/apps/liuyan/views.py" />
-      <change beforePath="$PROJECT_DIR$/djangoTest/settings.py" afterPath="$PROJECT_DIR$/djangoTest/settings.py" />
-      <change beforePath="$PROJECT_DIR$/djangoTest/urls.py" afterPath="$PROJECT_DIR$/djangoTest/urls.py" />
-      <change beforePath="$PROJECT_DIR$/templates/start.html" afterPath="$PROJECT_DIR$/templates/start.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -308,7 +301,14 @@
       <option name="project" value="LOCAL" />
       <updated>1531821687846</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="第五篇代码截止">
+      <created>1532243639992</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1532243639992</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -347,7 +347,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第四篇代码截止" />
-    <option name="LAST_COMMIT_MESSAGE" value="第四篇代码截止" />
+    <MESSAGE value="第五篇代码截止" />
+    <option name="LAST_COMMIT_MESSAGE" value="第五篇代码截止" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
