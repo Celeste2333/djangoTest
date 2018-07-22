@@ -19,5 +19,5 @@ from liuyan.views import getstart
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('start/', getstart), # 新增加的一行
+    path('start/', getstart, name="get_start"), # 新增加的一行
 ]
